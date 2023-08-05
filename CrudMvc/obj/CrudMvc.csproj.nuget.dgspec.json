@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WWWROOT\\Documents\\GitHub\\Projeto\\PROJETO_CRUD_MVC_SQL\\CrudMvc\\CrudMvc.csproj": {}
+    "C:\\Users\\WWWROOT\\Documents\\GitHub\\Projeto\\CrudMvc\\CrudMvc\\CrudMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WWWROOT\\Documents\\GitHub\\Projeto\\PROJETO_CRUD_MVC_SQL\\CrudMvc\\CrudMvc.csproj": {
+    "C:\\Users\\WWWROOT\\Documents\\GitHub\\Projeto\\CrudMvc\\CrudMvc\\CrudMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WWWROOT\\Documents\\GitHub\\Projeto\\PROJETO_CRUD_MVC_SQL\\CrudMvc\\CrudMvc.csproj",
+        "projectUniqueName": "C:\\Users\\WWWROOT\\Documents\\GitHub\\Projeto\\CrudMvc\\CrudMvc\\CrudMvc.csproj",
         "projectName": "CrudMvc",
-        "projectPath": "C:\\Users\\WWWROOT\\Documents\\GitHub\\Projeto\\PROJETO_CRUD_MVC_SQL\\CrudMvc\\CrudMvc.csproj",
+        "projectPath": "C:\\Users\\WWWROOT\\Documents\\GitHub\\Projeto\\CrudMvc\\CrudMvc\\CrudMvc.csproj",
         "packagesPath": "C:\\Users\\WWWROOT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WWWROOT\\Documents\\GitHub\\Projeto\\PROJETO_CRUD_MVC_SQL\\CrudMvc\\obj\\",
+        "outputPath": "C:\\Users\\WWWROOT\\Documents\\GitHub\\Projeto\\CrudMvc\\CrudMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WWWROOT\\AppData\\Roaming\\NuGet\\NuGet.Config",

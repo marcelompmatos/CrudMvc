@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bNJJm3uZfRPq4QfvvxI3y06Gq5EGn7i6JoPe82cx8zewBEwByv/RZ2JGINZuci+voRgF5NCx61hm1hMmHXRaxw==",
+  "dgSpecHash": "kOVg/bIJjjeqWLwk5MimjM6RiQXLkC1rgO7ej5oNH/GfdiGhSnLqGhCPWvq+c6sKQmMa19MeC/UJOCQTSBnBbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\WWWROOT\\Documents\\GitHub\\Projeto\\PROJETO_CRUD_MVC_SQL\\CrudMvc\\CrudMvc.csproj",
+  "projectFilePath": "C:\\Users\\WWWROOT\\Documents\\GitHub\\Projeto\\CrudMvc\\CrudMvc\\CrudMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WWWROOT\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\WWWROOT\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
